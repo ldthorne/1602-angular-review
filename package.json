@@ -1,0 +1,19 @@
+{
+  "name": "angular-review",
+  "version": "1.0.0",
+  "description": "This is a review for the 1602 Angular assessment. To use, clone repo and `npm install && npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldthorne/1602-angular-review.git"
+  },
+  "author": "Leon Daniel Thorne <ldthorne@brandeis.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldthorne/1602-angular-review/issues"
+  },
+  "homepage": "https://github.com/ldthorne/1602-angular-review#readme"
+}
